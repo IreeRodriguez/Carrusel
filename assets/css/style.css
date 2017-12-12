@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+    text-align: center;
+}
+
+ul,ol{
+	list-style: none;
+}
+ .carousel{
+     margin-top: 5em;
+ }
+
+.slider li img{
+	width: 100%;
+    height: 20em;
+    object-fit: cover;
+}
+
+.pagination li{
+	font-size: 1.5em;
+	margin: 0.5em;
+	color: #858585;
+	cursor: pointer;
+}
+.left, .right{
+
+	font-size: 2em;
+	cursor: pointer;
+    margin-top: 3em;
+}
