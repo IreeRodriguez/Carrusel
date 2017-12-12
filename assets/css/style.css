@@ -27,7 +27,7 @@ ul,ol{
 	cursor: pointer;
 }
 .left, .right{
-
+    color: #858585;
 	font-size: 2em;
 	cursor: pointer;
     margin-top: 3em;
